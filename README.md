@@ -10,7 +10,6 @@
 
 - 📅 Takvim görünümü ve gün seçimi
 - 📝 Etkinlik ekleme, düzenleme, silme
-- 🔔 Hatırlatıcı ve bildirim desteği (varsa)
 - 🖥️ Modern Windows Forms arayüzü (DevExpress tema desteği)
 - 🗃️ Hafif ve hızlı çalışma
 
