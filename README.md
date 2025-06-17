@@ -68,10 +68,19 @@ Calendar/
 
 ## 🤝 Katkı
 
-Katkı sağlamak için projeyi forklayıp pull request gönderebilirsiniz.
+Katkı sağlamak için projeyi forklayabilir ve pull request gönderebilirsiniz.
 
 ---
 
 ## 📄 Lisans
 
-Bu proje MIT lisansı ile sunulmuştur.
+MIT License
+
+---
+
+## 📬 İletişim
+
+- 👨‍💻 Geliştirici: [@dogukankosan](https://github.com/dogukankosan)  
+- 🐞 Suggestions or issues: [Issues sekmesi](https://github.com/dogukankosan/LogoWhatsappEntegrasyon/issues)
+
+---
